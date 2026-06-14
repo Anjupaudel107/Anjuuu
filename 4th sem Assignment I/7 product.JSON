@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Laptop",
+        "price": 85000,
+        "quantity": 5
+    },
+    {
+        "name": "Mouse",
+        "price": 1200,
+        "quantity": 50
+    },
+    {
+        "name": "Keyboard",
+        "price": 2500,
+        "quantity": 30
+    },
+    {
+        "name": "Monitor",
+        "price": 22000,
+        "quantity": 12
+    },
+    {
+        "name": "Headphones",
+        "price": 3500,
+        "quantity": 25
+    },
+    {
+        "name": "Webcam",
+        "price": 4000,
+        "quantity": 18
+    },
+    {
+        "name": "Printer",
+        "price": 18000,
+        "quantity": 8
+    },
+    {
+        "name": "Scanner",
+        "price": 15000,
+        "quantity": 6
+    },
+    {
+        "name": "USB Drive",
+        "price": 800,
+        "quantity": 100
+    },
+    {
+        "name": "External HDD",
+        "price": 7500,
+        "quantity": 20
+    },
+    {
+        "name": "SSD 512GB",
+        "price": 6500,
+        "quantity": 35
+    },
+    {
+        "name": "Graphics Card",
+        "price": 45000,
+        "quantity": 7
+    },
+    {
+        "name": "RAM 8GB",
+        "price": 3200,
+        "quantity": 40
+    },
+    {
+        "name": "RAM 16GB",
+        "price": 6000,
+        "quantity": 28
+    },
+    {
+        "name": "Marker",
+        "price": 50,
+        "quantity": 300
+    }
+]
